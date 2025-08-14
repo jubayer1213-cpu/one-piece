@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>One Piece Encyclopedia — Straw Hat Crew</title>
+  <meta name="description" content="A colorful One Piece website featuring the Straw Hat Pirates — bios, powers, bounties, and images.">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="theme-ocean">
+  <header class="site-header glass">
+    <div class="container header-inner">
+      <a class="logo" href="index.html">☠️ Straw Hat <span>Crew</span></a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="characters.html">Characters</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+    <div class="wave"></div>
+  </header>
+
+  <main class="container">
+    <section class="hero card">
+      <div class="hero-text">
+        <h1>One Piece Encyclopedia</h1>
+        <p>Dive into the Grand Line: meet the Straw Hat Pirates, explore their powers, and track their bounties. Built as a fast, static site ready for GitHub Pages.</p>
+        <div class="actions">
+          <a class="btn" href="characters.html">Meet the Crew →</a>
+          <a class="btn alt" href="characters.html#bounties">Bounties & Powers</a>
+        </div>
+      </div>
+      <div class="hero-art">
+        <img src="images/hero-ocean.png" alt="Ocean waves background" />
+      </div>
+    </section>
+
+    <section class="highlights">
+      <article class="mini card glow">
+        <h3>Live JSON Data</h3>
+        <p>All character info loads from <code>characters.json</code>. Edit one file to update names, images, powers, and bounties.</p>
+      </article>
+      <article class="mini card glow">
+        <h3>Colorful Pirate Theme</h3>
+        <p>Ocean blues, gold accents, and parchment textures — with smooth hover glows and badges for bounties.</p>
+      </article>
+      <article class="mini card glow">
+        <h3>Mobile Friendly</h3>
+        <p>Responsive grid and details layout looks great on phones, tablets, and desktops.</p>
+      </article>
+    </section>
+
+    <section id="about" class="about card">
+      <h2>About This Project</h2>
+      <p>
+        This is a fan-made website template focused on <em>One Piece</em> and the Straw Hat Pirates. It uses official character images if you provide them. 
+        For this demo, placeholder images are included with exact file names — just replace them with official images you own the rights to use.
+      </p>
+      <p>
+        Hosting is easy: upload these files to a public GitHub repository and enable GitHub Pages.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer glass">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> Straw Hat Crew — Fan Project</p>
+      <a class="small" href="characters.json" target="_blank" rel="noopener">View data</a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

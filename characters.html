@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Straw Hat Characters — One Piece Encyclopedia</title>
+  <meta name="description" content="Browse the Straw Hat crew — images, roles, powers, and bounties.">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="theme-ocean">
+  <header class="site-header glass">
+    <div class="container header-inner">
+      <a class="logo" href="index.html">☠️ Straw Hat <span>Crew</span></a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a class="active" href="characters.html">Characters</a>
+      </nav>
+    </div>
+    <div class="wave"></div>
+  </header>
+
+  <main class="container">
+    <section class="toolbar">
+      <input id="search" class="search" type="search" placeholder="Search by name, role, fruit, or power…" aria-label="Search characters">
+      <div class="pillbar">
+        <button class="pill" data-filter="all">All</button>
+        <button class="pill" data-filter="devil-fruit">Devil Fruit Users</button>
+        <button class="pill" data-filter="haki">Haki Users</button>
+        <button class="pill" data-filter="non-fruit">No Devil Fruit</button>
+      </div>
+    </section>
+
+    <section id="bounties" class="grid"></section>
+    <p id="count" class="results-meta"></p>
+  </main>
+
+  <footer class="site-footer glass">
+    <div class="container footer-inner">
+      <p>© <span id="year"></span> Straw Hat Crew — Fan Project</p>
+      <a class="small" href="characters.json" target="_blank" rel="noopener">View data</a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

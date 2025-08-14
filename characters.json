@@ -1,0 +1,177 @@
+[
+  {
+    "id": "luffy",
+    "name": "Monkey D. Luffy",
+    "role": "Captain",
+    "devil_fruit": "Hito Hito no Mi, Model: Nika (Mythical Zoan)",
+    "bounty": 3000000000,
+    "haki": [
+      "Conqueror's Haki",
+      "Armament Haki",
+      "Observation Haki"
+    ],
+    "powers": [
+      "Gear 2",
+      "Gear 3",
+      "Gear 4 (Boundman/Snakeman/Tankman)",
+      "Gear 5 (Nika)",
+      "Rubber Body",
+      "Freedom-based Awakening"
+    ],
+    "first_appearance": "Chapter 1 / Episode 1",
+    "bio": "Luffy set sail from Foosha Village to become the Pirate King. With the Nika fruit awakening and all three forms of Haki, he leads the Straw Hat Pirates with an unbreakable will and a knack for turning enemies into allies.",
+    "image": "images/luffy.png"
+  },
+  {
+    "id": "zoro",
+    "name": "Roronoa Zoro",
+    "role": "Swordsman",
+    "devil_fruit": "",
+    "bounty": 1111000000,
+    "haki": [
+      "Conqueror's Haki (Advanced)",
+      "Armament Haki",
+      "Observation Haki"
+    ],
+    "powers": [
+      "Santoryu (Three-Sword Style)",
+      "Ashura",
+      "Enma Mastery"
+    ],
+    "first_appearance": "Chapter 3 / Episode 2",
+    "bio": "The right-hand man of Luffy and a master of three-sword style. Trains relentlessly to become the world's greatest swordsman.",
+    "image": "images/zoro.png"
+  },
+  {
+    "id": "nami",
+    "name": "Nami",
+    "role": "Navigator",
+    "devil_fruit": "",
+    "bounty": 366000000,
+    "haki": [],
+    "powers": [
+      "Clima-Tact Weather Manipulation",
+      "Zeus Thundercloud"
+    ],
+    "first_appearance": "Chapter 8 / Episode 1",
+    "bio": "Genius navigator and cartographer. Manipulates weather with the Clima-Tact and her ally Zeus, guiding the crew through impossible seas.",
+    "image": "images/nami.png"
+  },
+  {
+    "id": "usopp",
+    "name": "Usopp",
+    "role": "Sniper",
+    "devil_fruit": "",
+    "bounty": 500000000,
+    "haki": [
+      "Observation Haki"
+    ],
+    "powers": [
+      "Sniping Expertise",
+      "Pop Greens",
+      "Inventor & Strategist"
+    ],
+    "first_appearance": "Chapter 23 / Episode 9",
+    "bio": "The crew's sharpshooter and storyteller. His creativity and courage often turn the tide in unexpected ways.",
+    "image": "images/usopp.png"
+  },
+  {
+    "id": "sanji",
+    "name": "Vinsmoke Sanji",
+    "role": "Cook",
+    "devil_fruit": "",
+    "bounty": 1032000000,
+    "haki": [
+      "Armament Haki",
+      "Observation Haki"
+    ],
+    "powers": [
+      "Black Leg Style",
+      "Diable Jambe / Ifrit Jambe",
+      "Genetic Enhancements"
+    ],
+    "first_appearance": "Chapter 43 / Episode 20",
+    "bio": "Chivalrous chef who fights with devastating kicks. His Germa lineage awakened latent power, enhancing speed and durability.",
+    "image": "images/sanji.png"
+  },
+  {
+    "id": "chopper",
+    "name": "Tony Tony Chopper",
+    "role": "Doctor",
+    "devil_fruit": "Hito Hito no Mi (Human)",
+    "bounty": 1000,
+    "haki": [],
+    "powers": [
+      "Point Transformations",
+      "Monster Point (with Rumble Ball)"
+    ],
+    "first_appearance": "Chapter 134 / Episode 81",
+    "bio": "A reindeer who ate the Human-Human Fruit. Brilliant doctor with a compassionate heart and adorable demeanor.",
+    "image": "images/chopper.png"
+  },
+  {
+    "id": "robin",
+    "name": "Nico Robin",
+    "role": "Archaeologist",
+    "devil_fruit": "Hana Hana no Mi",
+    "bounty": 930000000,
+    "haki": [],
+    "powers": [
+      "Multi-Limb Manifestation",
+      "Gigante Fleur"
+    ],
+    "first_appearance": "Chapter 114 / Episode 67",
+    "bio": "Survivor of Ohara and seeker of the True History. Her ability to sprout limbs and her calm intellect make her indispensable.",
+    "image": "images/robin.png"
+  },
+  {
+    "id": "franky",
+    "name": "Franky",
+    "role": "Shipwright",
+    "devil_fruit": "",
+    "bounty": 394000000,
+    "haki": [],
+    "powers": [
+      "Cyborg Enhancements",
+      "Franky Radical Beam",
+      "General Franky"
+    ],
+    "first_appearance": "Chapter 329 / Episode 233",
+    "bio": "Coke-powered cyborg and designer of the Thousand Sunny. A boisterous builder with a soft spot for family.",
+    "image": "images/franky.png"
+  },
+  {
+    "id": "brook",
+    "name": "Brook",
+    "role": "Musician",
+    "devil_fruit": "Yomi Yomi no Mi",
+    "bounty": 383000000,
+    "haki": [],
+    "powers": [
+      "Soul Projection",
+      "Ice-imbued Swordplay",
+      "Revived Skeleton Body"
+    ],
+    "first_appearance": "Chapter 442 / Episode 337",
+    "bio": "Gentleman musician brought back to life by the Revive-Revive Fruit. His music and sword make for a chilling combo.",
+    "image": "images/brook.png"
+  },
+  {
+    "id": "jinbe",
+    "name": "Jinbe",
+    "role": "Helmsman",
+    "devil_fruit": "",
+    "bounty": 1100000000,
+    "haki": [
+      "Armament Haki",
+      "Observation Haki"
+    ],
+    "powers": [
+      "Fish-Man Karate",
+      "Master Helmsman"
+    ],
+    "first_appearance": "Chapter 528 / Episode 430",
+    "bio": "Former Warlord and fish-man master of the seas. His calm leadership and ocean mastery make him the perfect helmsman.",
+    "image": "images/jinbe.png"
+  }
+]
